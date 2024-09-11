@@ -29,4 +29,4 @@ O projeto é estruturado da seguinte forma:
 Clone o repositório para sua máquina local:
 
 ```bash
-https://github.com/seu-usuario/DotnetApplication.git
+https://github.com/seu-usuario/EmployeesAPI.git
